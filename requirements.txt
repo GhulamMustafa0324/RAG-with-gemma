@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+pydantic
+faiss-cpu
+fake-useragent
+asyncio
+sentence-transformers
+nest-asyncio
+beautifulsoup4
+langchain-community
+accelerate
+bitsandbytes
+flash-attn
+pypdf
+tiktoken
+streamlit
