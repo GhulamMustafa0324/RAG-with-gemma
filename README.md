@@ -29,7 +29,7 @@ This repository implements a Retrieval-Augmented Generation (RAG) model with a u
 
 ### Without GPU (Google Colab)
 
-1. Upload `app.py` to your Google Drive.
+1. Upload `app.py` to your Google Drive and mount your google drive in colab.
 2. Open `colab.ipynb` in Colab and run all cells. This uses a provided tunnel to run Streamlit.
 
 ## Data Ingestion
